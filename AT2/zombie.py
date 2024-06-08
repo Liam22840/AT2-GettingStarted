@@ -3,6 +3,8 @@ import random
 
 # added a change
 
+# new change
+
 class Zombie:
     def __init__(self, position, window):
         # Load the zombie image from the specified path
